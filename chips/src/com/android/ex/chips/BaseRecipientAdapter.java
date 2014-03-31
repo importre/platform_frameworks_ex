@@ -56,6 +56,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
+import com.android.mms.R;
+
 /**
  * Adapter for showing a recipient list.
  */

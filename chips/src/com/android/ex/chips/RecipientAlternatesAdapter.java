@@ -37,6 +37,7 @@ import android.widget.TextView;
 import com.android.ex.chips.BaseRecipientAdapter.DirectoryListQuery;
 import com.android.ex.chips.BaseRecipientAdapter.DirectorySearchParams;
 import com.android.ex.chips.Queries.Query;
+import com.android.mms.R;
 
 import java.util.ArrayList;
 import java.util.HashMap;
